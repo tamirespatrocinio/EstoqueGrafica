@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstoqueGrafica", "EstoqueGrafica\EstoqueGrafica.csproj", "{1468A66C-872F-4DAF-9D57-D400BEFB881B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1468A66C-872F-4DAF-9D57-D400BEFB881B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1468A66C-872F-4DAF-9D57-D400BEFB881B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1468A66C-872F-4DAF-9D57-D400BEFB881B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1468A66C-872F-4DAF-9D57-D400BEFB881B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3734E336-D86C-4208-A049-009502037CE9}
+	EndGlobalSection
+EndGlobal
